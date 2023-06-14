@@ -1,2 +1,2 @@
 import Foundation
-import RezolveSDKLite
+import RezolveSDK
